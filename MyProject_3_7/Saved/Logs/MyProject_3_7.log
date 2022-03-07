@@ -897,3 +897,54 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.07-09.50.46:090][784]AssetCheck: New page: 에셋 저장:  다수의 에셋
 [2022.03.07-09.50.46:090][784]LogContentValidation: Display: MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData 유효성 검사 중
 [2022.03.07-09.50.46:091][784]LogContentValidation: Display: World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap 유효성 검사 중
+[2022.03.07-09.51.29:796][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.03.07-09.51.29:836][376]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/FirstPersonExampleMap36C8E8CF42DA8D8931D8B68C87B1ADE8.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.07-09.51.30:153][376]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/FirstPersonExampleMap_BuiltData66D731564F019CEED504BE8994B86B7D.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.07-09.51.30:170][376]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.03.07-09.51.30:170][376]LogContentValidation: Display: MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData 유효성 검사 중
+[2022.03.07-09.51.30:170][376]LogContentValidation: Display: World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap 유효성 검사 중
+[2022.03.07-09.51.33:327][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.07-09.51.33:927][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2022.03.07-09.51.34:316][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.03.07-09.51.34:353][809]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/FirstPersonExampleMapC8FF129F40291DC13FA0BCB33DDF2E45.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.07-09.51.34:650][809]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/FirstPersonExampleMap_BuiltData2AAF55364A2CC1D9D31B7B9B0ED61719.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.07-09.51.34:669][809]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.03.07-09.51.34:669][809]LogContentValidation: Display: MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData 유효성 검사 중
+[2022.03.07-09.51.34:669][809]LogContentValidation: Display: World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap 유효성 검사 중
+[2022.03.07-09.52.19:057][ 93]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.07-09.52.19:068][ 93]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.07-09.52.30:645][431]LogContentBrowser: Attempting asset rename: NewFolder -> ProjectMaterials
+[2022.03.07-09.52.30:646][431]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.07-09.53.41:265][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.03.07-09.53.41:303][285]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/FirstPersonExampleMap924302A5413F08C5564923803BC94EF9.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.07-09.53.41:636][285]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/FirstPersonExampleMap_BuiltDataBD18604240AFC0D2E89D57A087E13E72.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.07-09.53.41:648][285]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.03.07-09.53.41:648][285]LogContentValidation: Display: MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData 유효성 검사 중
+[2022.03.07-09.53.41:648][285]LogContentValidation: Display: World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap 유효성 검사 중
+[2022.03.07-09.54.00:791][568]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.07-09.54.03:895][568]LogSlate: Window '부모 클래스 선택' being destroyed
+[2022.03.07-09.54.03:914][568]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.07-09.54.03:922][568]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.07-09.54.17:696][116]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DynamicMat
+[2022.03.07-09.54.17:702][116]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.07-09.54.19:185][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.03.07-09.54.19:222][289]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/FirstPersonExampleMapD16C3367429956F7F89BEAB3621DE109.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.07-09.54.19:578][289]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/FirstPersonExampleMap_BuiltDataFE77078A40FF9F1C839198A6186FE6CE.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.07-09.54.19:593][289]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.03.07-09.54.19:593][289]LogContentValidation: Display: MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData 유효성 검사 중
+[2022.03.07-09.54.19:594][289]LogContentValidation: Display: World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap 유효성 검사 중
+[2022.03.07-09.54.29:612][496]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProjectMaterials/BP_DynamicMat.BP_DynamicMat
+[2022.03.07-09.54.30:648][496]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.03.07-09.54.31:709][497]LogRenderer: Reallocating scene render targets to support 1616x604 Format 10 NumSamples 1 (Frame:1).
+[2022.03.07-09.54.38:971][133]LogSlate: Took 0.000481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.07-09.55.25:389][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMaterials/BP_DynamicMat" FILE="../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/ProjectMaterials/BP_DynamicMat.uasset" SILENT=true
+[2022.03.07-09.55.25:397][ 36]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/BP_DynamicMatC63DEF4845BC51CF131E1982667C6CD4.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/ProjectMaterials/BP_DynamicMat.uasset'
+[2022.03.07-09.55.25:418][ 36]AssetCheck: New page: 에셋 저장:  BP_DynamicMat
+[2022.03.07-09.55.25:418][ 36]LogContentValidation: Display: Blueprint /Game/ProjectMaterials/BP_DynamicMat.BP_DynamicMat 유효성 검사 중
+[2022.03.07-09.55.26:545][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.07-09.55.27:002][136]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2022.03.07-09.55.27:052][136]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/FirstPersonExampleMap728A770C4041F625815070AFF9C6C98E.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.07-09.55.27:359][136]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/FirstPersonExampleMap_BuiltData610FF24A48F40FCD096C9CBDC4AEA945.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.07-09.55.27:380][136]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.03.07-09.55.27:380][136]LogContentValidation: Display: MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData 유효성 검사 중
+[2022.03.07-09.55.27:380][136]LogContentValidation: Display: World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap 유효성 검사 중
