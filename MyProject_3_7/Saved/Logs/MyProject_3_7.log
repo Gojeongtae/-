@@ -4733,3 +4733,76 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.14-10.16.11:850][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.03.14-10.16.11:853][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
 [2022.03.14-10.16.11:879][375]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.14-10.17.40:943][499]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.14-10.17.40:948][499]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.03.14-10.17.41:839][499]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.14-10.17.41:852][499]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.14-10.17.41:866][499]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.14-10.17.46:489][992]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Coin
+[2022.03.14-10.17.46:494][992]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.14-10.17.55:988][284]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyProject/BluePrints/BP_Coin.BP_Coin
+[2022.03.14-10.18.56:110][447]BlueprintLog: New page: Compile BP_Coin
+[2022.03.14-10.18.56:149][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.03.14-10.18.56:523][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyProject/BluePrints/BP_Coin" FILE="../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Content/MyProject/BluePrints/BP_Coin.uasset" SILENT=true
+[2022.03.14-10.18.56:527][472]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Saved/BP_CoinEA3AB1E643FE426AB741C487252F2542.tmp' to '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Content/MyProject/BluePrints/BP_Coin.uasset'
+[2022.03.14-10.18.56:557][472]AssetCheck: New page: Asset Save: BP_Coin
+[2022.03.14-10.18.56:557][472]LogContentValidation: Display: Validating Blueprint /Game/MyProject/BluePrints/BP_Coin.BP_Coin
+[2022.03.14-10.19.47:332][ 42]LogSlate: Window 'Message Log' being destroyed
+[2022.03.14-10.19.47:334][ 42]LogSlate: Window 'Message Log' being destroyed
+[2022.03.14-10.20.28:630][762]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.14-10.20.28:645][762]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.14-10.20.29:288][826]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.03.14-10.20.29:289][826]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.14-10.20.38:156][693]LogContentBrowser: Attempting asset rename: NewFolder -> Progs
+[2022.03.14-10.20.40:683][916]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.14-10.20.40:742][916]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.14-10.20.42:059][ 67]LogContentBrowser: Attempting asset rename: NewFolder -> Sound
+[2022.03.14-10.20.42:059][ 67]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.14-10.20.49:190][583]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\go\Desktop\Coin-pick-up-sound-effect.wav)
+[2022.03.14-10.20.53:852][799]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\go\Desktop\SM_Pickup_Coin.FBX)
+[2022.03.14-10.20.53:873][799]LogFbx: Loading FBX Scene from C:\Users\go\Desktop\SM_Pickup_Coin.FBX
+[2022.03.14-10.20.53:880][799]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.14-10.20.59:586][799]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.03.14-10.20.59:619][799]LogMaterial: Display: Missing cached shadermap for M_Pickup_Coin in PCD3D_SM5, Default, SM5 (DDC key hash: 4DF4D1B3E8A6252E828C5C8EE9902FCE1398F8EE), compiling. 
+[2022.03.14-10.20.59:629][799]LogStaticMesh: Building static mesh SM_Pickup_Coin...
+[2022.03.14-10.20.59:635][799]LogStaticMesh: Built static mesh [0.01s] /Game/MyProject/Progs/SM_Pickup_Coin.SM_Pickup_Coin
+[2022.03.14-10.20.59:645][799]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.03.14-10.20.59:801][804]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.14-10.20.59:803][804]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.03.14-10.20.59:803][804]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.03.14-10.20.59:803][804]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.14-10.20.59:827][804]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.03.14-10.20.59:848][804]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2022.03.14-10.20.59:848][804]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2022.03.14-10.20.59:848][804]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2022.03.14-10.20.59:848][804]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.03.14-10.20.59:848][804]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2022.03.14-10.20.59:848][804]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.03.14-10.20.59:848][804]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.03.14-10.20.59:848][804]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2022.03.14-10.21.01:101][876]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.14-10.21.01:101][876]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.03.14-10.21.01:101][876]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.03.14-10.21.01:101][876]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.03.14-10.21.01:101][876]LogShaderCompilers: Display: ================================================
+[2022.03.14-10.21.03:837][998]LogSlate: Window 'Message Log' being destroyed
+[2022.03.14-10.21.03:844][998]LogSlate: Window 'Message Log' being destroyed
+[2022.03.14-10.21.05:130][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.14-10.21.05:157][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.03.14-10.21.05:169][121]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Saved/StartMapAD63D13546B1E2C28881CE98E67AC2C7.tmp' to '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Content/StartMap.umap'
+[2022.03.14-10.21.05:188][121]AssetCheck: New page: Asset Save: StartMap
+[2022.03.14-10.21.05:188][121]LogContentValidation: Display: Validating World /Game/StartMap.StartMap
+[2022.03.14-10.21.09:141][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.14-10.21.09:164][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.03.14-10.21.09:175][386]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Saved/StartMap9218D30F42EF01DE4DFDC2A53703B54E.tmp' to '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Content/StartMap.umap'
+[2022.03.14-10.21.09:195][386]AssetCheck: New page: Asset Save: StartMap
+[2022.03.14-10.21.09:196][386]LogContentValidation: Display: Validating World /Game/StartMap.StartMap
+[2022.03.14-10.21.10:687][506]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Saved/M_Pickup_Coin423D8A95422B306AA2842F8EFCAB5E5A.tmp' to '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Content/MyProject/Progs/M_Pickup_Coin.uasset'
+[2022.03.14-10.21.10:700][506]AssetCheck: New page: Asset Save: M_Pickup_Coin
+[2022.03.14-10.21.10:700][506]LogContentValidation: Display: Validating Material /Game/MyProject/Progs/M_Pickup_Coin.M_Pickup_Coin
+[2022.03.14-10.21.11:321][554]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Saved/SM_Pickup_CoinE23E444543E5FDBFD6316492A4EA7DBB.tmp' to '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Content/MyProject/Progs/SM_Pickup_Coin.uasset'
+[2022.03.14-10.21.11:333][554]AssetCheck: New page: Asset Save: SM_Pickup_Coin
+[2022.03.14-10.21.11:333][554]LogContentValidation: Display: Validating StaticMesh /Game/MyProject/Progs/SM_Pickup_Coin.SM_Pickup_Coin
+[2022.03.14-10.21.14:072][823]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Saved/Coin-pick-up-sound-effectA6A14CBB454F9ADFDC206E82ABC9DD28.tmp' to '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Content/MyProject/Sound/Coin-pick-up-sound-effect.uasset'
+[2022.03.14-10.21.14:083][823]AssetCheck: New page: Asset Save: Coin-pick-up-sound-effect
+[2022.03.14-10.21.14:083][823]LogContentValidation: Display: Validating SoundWave /Game/MyProject/Sound/Coin-pick-up-sound-effect.Coin-pick-up-sound-effect
