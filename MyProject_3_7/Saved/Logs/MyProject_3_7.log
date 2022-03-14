@@ -8216,3 +8216,156 @@ Make sure 'Sedan_C' has been compiled for  Get Car
 [2022.03.14-11.23.51:468][802]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Saved/StartMapD3F7E07444D840F8EF3C5C9A386AC9D0.tmp' to '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Content/MyProject/Maps/StartMap.umap'
 [2022.03.14-11.23.51:491][802]AssetCheck: New page: Asset Save: StartMap
 [2022.03.14-11.23.51:491][802]LogContentValidation: Display: Validating World /Game/MyProject/Maps/StartMap.StartMap
+[2022.03.14-11.33.51:667][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.03.14-11.33.51:670][ 54]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyProject/Maps/StartMap' took 0.048
+[2022.03.14-11.33.51:670][ 54]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([2] browsable assets)...
+[2022.03.14-11.33.51:683][ 54]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2022.03.14-11.33.51:683][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2022.03.14-11.33.51:731][ 54]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Saved/FirstPersonCharacter_Auto2912DE4A44FE06EC4963CA398AD1FE941.tmp' to '../../../../../../Users/go/Documents/GitHub/UnrealEngine-Prac/MyProject_3_7/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2022.03.14-11.33.51:731][ 54]LogFileHelpers: Auto-saving content packages took 0.062
+[2022.03.14-11.36.19:465][543]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.14-11.36.19:471][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.14-11.36.19:471][543]PIE: New page: PIE session: StartMap (Mar 15, 2022, 5:36:19 AM)
+[2022.03.14-11.36.19:505][543]LogPlayLevel: Creating play world package: /Game/MyProject/Maps/UEDPIE_0_StartMap
+[2022.03.14-11.36.19:508][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003183s)
+[2022.03.14-11.36.19:509][543]LogAIModule: Creating AISystem for world StartMap
+[2022.03.14-11.36.19:510][543]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2022.03.14-11.36.19:510][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyProject/Maps/StartMap.StartMap to /Game/MyProject/Maps/UEDPIE_0_StartMap.StartMap (0.004584s)
+[2022.03.14-11.36.19:545][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.03.14-11.36.19:547][543]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.03.14-11.36.19:547][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.14-11.36.19:547][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.14-11.36.19:547][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.14-11.36.19:547][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.14-11.36.19:547][543]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.14-11.36.19:547][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.14-11.36.19:547][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.14-11.36.19:547][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.14-11.36.19:547][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.14-11.36.19:547][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.14-11.36.19:547][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.14-11.36.19:547][543]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.14-11.36.19:556][543]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.14-11.36.19:556][543]LogAudioMixer: Display: 1: FrontRight
+[2022.03.14-11.36.19:575][543]LogAudioMixer: Display: Using Audio Device 스피커 (Realtek(R) Audio)
+[2022.03.14-11.36.19:575][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.14-11.36.19:575][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.14-11.36.19:575][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.14-11.36.19:576][543]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.14-11.36.19:576][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.14-11.36.19:576][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.14-11.36.19:577][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.14-11.36.19:577][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.14-11.36.19:577][543]LogInit: FAudioDevice initialized.
+[2022.03.14-11.36.19:577][543]LogAudio: Display: Audio Device (ID: 25) registered with world 'StartMap'.
+[2022.03.14-11.36.19:582][543]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.14-11.36.19:583][543]LogWorld: Bringing World /Game/MyProject/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 60) at 2022.03.14-20.36.19
+[2022.03.14-11.36.19:584][543]LogWorld: Bringing up level for play took: 0.001216
+[2022.03.14-11.36.19:584][543]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.03.14-11.36.19:587][543]PIE: Server logged in
+[2022.03.14-11.36.19:588][543]PIE: Play in editor total start time 0.118 seconds.
+[2022.03.14-11.36.21:623][665]LogBlueprintUserMessages: [BP_MyGameInstance_C_7] 100
+[2022.03.14-11.36.21:742][672]LogBlueprintUserMessages: [BP_MyGameInstance_C_7] 200
+[2022.03.14-11.36.32:249][298]LogBlueprintUserMessages: [BP_MyGameInstance_C_7] 300
+[2022.03.14-11.36.32:415][308]LogBlueprintUserMessages: [BP_MyGameInstance_C_7] 400
+[2022.03.14-11.36.34:017][403]LogNet: Browse: /Game/MyProject/Maps/NewCoinMap
+[2022.03.14-11.36.34:017][403]LogLoad: LoadMap: /Game/MyProject/Maps/NewCoinMap
+[2022.03.14-11.36.34:017][403]LogWorld: BeginTearingDown for /Game/MyProject/Maps/UEDPIE_0_StartMap
+[2022.03.14-11.36.34:018][403]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.14-11.36.34:018][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.14-11.36.34:073][403]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.14-11.36.34:078][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.03.14-11.36.34:085][403]LogAudio: Display: Audio Device (ID: 25) registered with world 'NewCoinMap'.
+[2022.03.14-11.36.34:085][403]LogAIModule: Creating AISystem for world NewCoinMap
+[2022.03.14-11.36.34:085][403]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.14-11.36.34:088][403]LogWorld: Bringing World /Game/MyProject/Maps/UEDPIE_0_NewCoinMap.NewCoinMap up for play (max tick rate 60) at 2022.03.14-20.36.34
+[2022.03.14-11.36.34:088][403]LogWorld: Bringing up level for play took: 0.002235
+[2022.03.14-11.36.34:090][403]LogLoad: Took 0.072667 seconds to LoadMap(/Game/MyProject/Maps/NewCoinMap)
+[2022.03.14-11.36.35:238][470]LogBlueprintUserMessages: [BP_MyGameInstance_C_7] 500
+[2022.03.14-11.36.35:924][511]LogBlueprintUserMessages: [BP_MyGameInstance_C_7] 600
+[2022.03.14-11.36.37:801][622]LogBlueprintUserMessages: [BP_MyGameInstance_C_7] 700
+[2022.03.14-11.36.45:759][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-11.36.45:759][ 20]LogWorld: BeginTearingDown for /Game/MyProject/Maps/UEDPIE_0_NewCoinMap
+[2022.03.14-11.36.45:759][ 20]LogWorld: UWorld::CleanupWorld for NewCoinMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.14-11.36.45:759][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.14-11.36.45:777][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.14-11.36.45:790][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.14-11.36.45:931][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.14-11.36.45:931][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.14-11.36.45:933][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.14-11.36.45:937][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-11.36.45:944][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2022.03.14-11.36.45:976][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.03.14-11.37.13:529][477]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.14-11.37.13:534][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.14-11.37.13:534][477]PIE: New page: PIE session: StartMap (Mar 15, 2022, 5:37:13 AM)
+[2022.03.14-11.37.13:564][477]LogPlayLevel: Creating play world package: /Game/MyProject/Maps/UEDPIE_0_StartMap
+[2022.03.14-11.37.13:567][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002887s)
+[2022.03.14-11.37.13:568][477]LogAIModule: Creating AISystem for world StartMap
+[2022.03.14-11.37.13:568][477]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2022.03.14-11.37.13:568][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyProject/Maps/StartMap.StartMap to /Game/MyProject/Maps/UEDPIE_0_StartMap.StartMap (0.004041s)
+[2022.03.14-11.37.13:602][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.03.14-11.37.13:603][477]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.03.14-11.37.13:603][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.14-11.37.13:603][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.14-11.37.13:603][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.14-11.37.13:603][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.14-11.37.13:603][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.14-11.37.13:603][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.14-11.37.13:603][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.14-11.37.13:603][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.14-11.37.13:603][477]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.14-11.37.13:603][477]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.14-11.37.13:603][477]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.14-11.37.13:603][477]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.14-11.37.13:612][477]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.14-11.37.13:612][477]LogAudioMixer: Display: 1: FrontRight
+[2022.03.14-11.37.13:634][477]LogAudioMixer: Display: Using Audio Device 스피커 (Realtek(R) Audio)
+[2022.03.14-11.37.13:634][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.14-11.37.13:634][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.14-11.37.13:634][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.14-11.37.13:634][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.14-11.37.13:635][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.14-11.37.13:635][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.14-11.37.13:636][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.14-11.37.13:636][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.14-11.37.13:636][477]LogInit: FAudioDevice initialized.
+[2022.03.14-11.37.13:636][477]LogAudio: Display: Audio Device (ID: 26) registered with world 'StartMap'.
+[2022.03.14-11.37.13:641][477]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.14-11.37.13:643][477]LogWorld: Bringing World /Game/MyProject/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 60) at 2022.03.14-20.37.13
+[2022.03.14-11.37.13:643][477]LogWorld: Bringing up level for play took: 0.001176
+[2022.03.14-11.37.13:643][477]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.03.14-11.37.13:646][477]PIE: Server logged in
+[2022.03.14-11.37.13:647][477]PIE: Play in editor total start time 0.114 seconds.
+[2022.03.14-11.37.20:798][822]LogBlueprintUserMessages: [BP_MyGameInstance_C_8] 100
+[2022.03.14-11.37.21:196][837]LogBlueprintUserMessages: [BP_MyGameInstance_C_8] 200
+[2022.03.14-11.37.32:292][332]LogBlueprintUserMessages: [BP_MyGameInstance_C_8] 300
+[2022.03.14-11.37.32:884][349]LogBlueprintUserMessages: [BP_MyGameInstance_C_8] 400
+[2022.03.14-11.37.35:409][462]LogNet: Browse: /Game/MyProject/Maps/NewCoinMap
+[2022.03.14-11.37.35:409][462]LogLoad: LoadMap: /Game/MyProject/Maps/NewCoinMap
+[2022.03.14-11.37.35:409][462]LogWorld: BeginTearingDown for /Game/MyProject/Maps/UEDPIE_0_StartMap
+[2022.03.14-11.37.35:409][462]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.14-11.37.35:410][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.14-11.37.35:525][462]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.14-11.37.35:529][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.03.14-11.37.35:537][462]LogAudio: Display: Audio Device (ID: 26) registered with world 'NewCoinMap'.
+[2022.03.14-11.37.35:537][462]LogAIModule: Creating AISystem for world NewCoinMap
+[2022.03.14-11.37.35:538][462]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.14-11.37.35:547][462]LogWorld: Bringing World /Game/MyProject/Maps/UEDPIE_0_NewCoinMap.NewCoinMap up for play (max tick rate 60) at 2022.03.14-20.37.35
+[2022.03.14-11.37.35:548][462]LogWorld: Bringing up level for play took: 0.009925
+[2022.03.14-11.37.35:566][462]LogLoad: Took 0.157190 seconds to LoadMap(/Game/MyProject/Maps/NewCoinMap)
+[2022.03.14-11.37.38:248][525]LogBlueprintUserMessages: [BP_MyGameInstance_C_8] 500
+[2022.03.14-11.37.38:814][548]LogBlueprintUserMessages: [BP_MyGameInstance_C_8] 600
+[2022.03.14-11.37.39:900][577]LogBlueprintUserMessages: [BP_MyGameInstance_C_8] 700
+[2022.03.14-11.37.40:703][606]LogBlueprintUserMessages: [BP_MyGameInstance_C_8] 800
+[2022.03.14-11.37.48:606][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-11.37.48:606][950]LogWorld: BeginTearingDown for /Game/MyProject/Maps/UEDPIE_0_NewCoinMap
+[2022.03.14-11.37.48:606][950]LogWorld: UWorld::CleanupWorld for NewCoinMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.14-11.37.48:606][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.14-11.37.48:617][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.14-11.37.48:624][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.14-11.37.48:653][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.14-11.37.48:654][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.14-11.37.48:655][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.14-11.37.48:663][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.03.14-11.37.48:682][951]LogPlayLevel: Display: Destroying online subsystem :Context_47
