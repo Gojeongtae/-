@@ -1095,3 +1095,88 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.18-02.18.42:380][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyProject/BluePrints/BP_AbilityStatComponent]
 [2022.03.18-02.18.42:389][129]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/BP_AbilityStatComponent_Auto2B438666546BBCD403EC9A995EBC12483.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/Autosaves/Game/MyProject/BluePrints/BP_AbilityStatComponent_Auto2.uasset'
 [2022.03.18-02.18.42:391][129]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.03.18-02.20.22:399][164]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/BP_AbilityStatComponentA1A8723544064A4F6C351A97DFF64A10.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/BP_AbilityStatComponent.uasset'
+[2022.03.18-02.20.22:423][164]AssetCheck: New page: 에셋 저장:  BP_AbilityStatComponent
+[2022.03.18-02.20.22:423][164]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/BP_AbilityStatComponent.BP_AbilityStatComponent 유효성 검사 중
+[2022.03.18-02.23.13:401][603]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/BP_AbilityStatComponent06BAF20A42ACBF997C1CC5AA97FC1047.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/BP_AbilityStatComponent.uasset'
+[2022.03.18-02.23.13:425][603]AssetCheck: New page: 에셋 저장:  BP_AbilityStatComponent
+[2022.03.18-02.23.13:425][603]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/BP_AbilityStatComponent.BP_AbilityStatComponent 유효성 검사 중
+[2022.03.18-02.23.15:197][748]BlueprintLog: New page: BP_AbilityStatComponent 컴파일
+[2022.03.18-02.23.15:261][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.03.18-02.24.16:841][840]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/BP_AbilityStatComponentD881C2DA43B36314BC85EB8E2CAEAF67.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/BP_AbilityStatComponent.uasset'
+[2022.03.18-02.24.16:899][840]AssetCheck: New page: 에셋 저장:  BP_AbilityStatComponent
+[2022.03.18-02.24.16:899][840]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/BP_AbilityStatComponent.BP_AbilityStatComponent 유효성 검사 중
+[2022.03.18-02.24.41:643][888]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/BP_AbilityStatComponent36D9B786493B06817B18DD855D0690B1.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/BP_AbilityStatComponent.uasset'
+[2022.03.18-02.24.41:668][888]AssetCheck: New page: 에셋 저장:  BP_AbilityStatComponent
+[2022.03.18-02.24.41:668][888]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/BP_AbilityStatComponent.BP_AbilityStatComponent 유효성 검사 중
+[2022.03.18-02.24.42:585][975]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/BP_AbilityStatComponent5CBDC5B8473E262344D2E79D52F98F4B.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/BP_AbilityStatComponent.uasset'
+[2022.03.18-02.24.42:607][975]AssetCheck: New page: 에셋 저장:  BP_AbilityStatComponent
+[2022.03.18-02.24.42:608][975]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/BP_AbilityStatComponent.BP_AbilityStatComponent 유효성 검사 중
+[2022.03.18-02.25.03:843][  5]BlueprintLog: New page: BP_AbilityStatComponent 컴파일
+[2022.03.18-02.25.03:904][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.03.18-02.25.04:441][ 39]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/BP_AbilityStatComponent13DFBF74448845D1C86E12B7E2159B2C.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/BP_AbilityStatComponent.uasset'
+[2022.03.18-02.25.04:563][ 39]AssetCheck: New page: 에셋 저장:  BP_AbilityStatComponent
+[2022.03.18-02.25.04:563][ 39]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/BP_AbilityStatComponent.BP_AbilityStatComponent 유효성 검사 중
+[2022.03.18-02.26.08:133][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.03.18-02.26.09:859][765]LogSlate: Window '콘텐츠 저장' being destroyed
+[2022.03.18-02.26.09:941][765]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/FirstPersonCharacter80C9FBDA467B0014502B37875AF72F29.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.18-02.26.10:072][765]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyProject/Maps/NewCoinMap.NewCoinMap
+[2022.03.18-02.26.10:072][765]Cmd: MAP LOAD FILE="../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/Maps/NewCoinMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.18-02.26.10:072][765]LightingResults: New page: 라이팅 빌드
+[2022.03.18-02.26.10:073][765]LoadErrors: New page: 맵 로드 중: NewCoinMap.umap
+[2022.03.18-02.26.10:074][765]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-02.26.10:074][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-02.26.10:075][765]MapCheck: New page: 맵 체크
+[2022.03.18-02.26.10:075][765]LightingResults: New page: 라이팅 빌드
+[2022.03.18-02.26.10:114][765]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.18-02.26.10:119][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.03.18-02.26.10:120][765]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewCoinMap'.
+[2022.03.18-02.26.10:148][765]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.18-02.26.10:148][765]LogAIModule: Creating AISystem for world NewCoinMap
+[2022.03.18-02.26.10:190][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.03.18-02.26.10:202][765]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.18-02.26.10:202][765]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.217ms.
+[2022.03.18-02.26.10:202][765]LogFileHelpers: Loading map 'NewCoinMap' took 0.130
+[2022.03.18-02.26.10:259][765]AssetCheck: New page: 에셋 저장:  FirstPersonCharacter
+[2022.03.18-02.26.10:259][765]LogContentValidation: Display: Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter 유효성 검사 중
+[2022.03.18-02.26.13:140][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.03.18-02.26.13:200][ 69]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyProject/Maps/NewMao.NewMao
+[2022.03.18-02.26.13:200][ 69]Cmd: MAP LOAD FILE="../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/Maps/NewMao.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.18-02.26.13:200][ 69]LightingResults: New page: 라이팅 빌드
+[2022.03.18-02.26.13:200][ 69]LoadErrors: New page: 맵 로드 중: NewMao.umap
+[2022.03.18-02.26.13:203][ 69]LogWorld: UWorld::CleanupWorld for NewCoinMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-02.26.13:203][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-02.26.13:203][ 69]MapCheck: New page: 맵 체크
+[2022.03.18-02.26.13:203][ 69]LightingResults: New page: 라이팅 빌드
+[2022.03.18-02.26.13:232][ 69]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.18-02.26.13:236][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.03.18-02.26.13:237][ 69]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMao'.
+[2022.03.18-02.26.13:335][ 69]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.18-02.26.13:335][ 69]LogAIModule: Creating AISystem for world NewMao
+[2022.03.18-02.26.13:385][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.03.18-02.26.13:397][ 69]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.18-02.26.13:397][ 69]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.203ms.
+[2022.03.18-02.26.13:397][ 69]LogFileHelpers: Loading map 'NewMao' took 0.197
+[2022.03.18-02.26.14:434][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.03.18-02.26.14:484][141]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyProject/Maps/StartMap.StartMap
+[2022.03.18-02.26.14:485][141]Cmd: MAP LOAD FILE="../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/Maps/StartMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.18-02.26.14:485][141]LightingResults: New page: 라이팅 빌드
+[2022.03.18-02.26.14:485][141]LoadErrors: New page: 맵 로드 중: StartMap.umap
+[2022.03.18-02.26.14:487][141]LogWorld: UWorld::CleanupWorld for NewMao, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-02.26.14:487][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-02.26.14:487][141]MapCheck: New page: 맵 체크
+[2022.03.18-02.26.14:487][141]LightingResults: New page: 라이팅 빌드
+[2022.03.18-02.26.14:516][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.18-02.26.14:521][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.03.18-02.26.14:521][141]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMap'.
+[2022.03.18-02.26.14:548][141]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.18-02.26.14:548][141]LogAIModule: Creating AISystem for world StartMap
+[2022.03.18-02.26.14:589][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.03.18-02.26.14:601][141]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.18-02.26.14:601][141]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.217ms.
+[2022.03.18-02.26.14:601][141]LogFileHelpers: Loading map 'StartMap' took 0.117
+[2022.03.18-02.27.00:786][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.18-02.27.02:871][761]Cmd: TRANSACTION UNDO
+[2022.03.18-02.27.02:871][761]LogEditorTransaction: Undo 액터 클릭
+[2022.03.18-02.27.43:253][919]Cmd: TRANSACTION UNDO
+[2022.03.18-02.27.43:253][919]LogEditorTransaction: Undo 액터 생성
