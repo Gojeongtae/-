@@ -934,3 +934,95 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.21-01.29.16:040][466]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/StartMapEB350860426B803CED7072B06F032504.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/Maps/StartMap.umap'
 [2022.03.21-01.29.16:068][466]AssetCheck: New page: 에셋 저장:  StartMap
 [2022.03.21-01.29.16:068][466]LogContentValidation: Display: World /Game/MyProject/Maps/StartMap.StartMap 유효성 검사 중
+[2022.03.21-01.30.16:499][864]LogMaterial: Display: Missing cached shadermap for M_PotionGlass in PCD3D_SM5, Default, SM5 (DDC key hash: C5997D41685B6C405540DD337D5CA4FD6AFE1D56), compiling. 
+[2022.03.21-01.30.16:543][864]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Low' priority
+[2022.03.21-01.30.16:544][864]LogStaticMesh: SM_PotionBottle 스태틱 메시 빌드중...
+[2022.03.21-01.30.16:573][864]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 23
+[2022.03.21-01.30.16:574][864]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 21
+[2022.03.21-01.30.16:574][864]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 19
+[2022.03.21-01.30.16:574][864]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 17
+[2022.03.21-01.30.16:574][864]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 15
+[2022.03.21-01.30.16:574][864]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 13
+[2022.03.21-01.30.16:574][864]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 11
+[2022.03.21-01.30.16:574][864]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 9
+[2022.03.21-01.30.16:574][864]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 7
+[2022.03.21-01.30.16:574][864]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 5
+[2022.03.21-01.30.16:574][864]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 3
+[2022.03.21-01.30.16:574][864]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 1
+[2022.03.21-01.30.16:574][864]LogShaderCompilers: Display: Started 23 'Local' shader compile jobs with 'Low' priority
+[2022.03.21-01.30.16:598][864]LogStaticMesh: Built static mesh [0.06s] /Game/Items/Pickups/PotionPickups/Assets/SM_PotionBottle.SM_PotionBottle
+[2022.03.21-01.30.16:642][864]LogActorFactory: Actor Factory created SM_PotionBottle
+[2022.03.21-01.30.17:007][890]LogActorFactory: Actor Factory created SM_PotionBottle
+[2022.03.21-01.30.17:671][956]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.21-01.30.17:671][956]LogShaderCompilers: Display: Total job queries 23, among them cache hits 0 (0.00%)
+[2022.03.21-01.30.17:671][956]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.03.21-01.30.17:671][956]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2022.03.21-01.30.17:671][956]LogShaderCompilers: Display: ================================================
+[2022.03.21-01.30.21:168][354]Cmd: DELETE
+[2022.03.21-01.30.21:169][354]Cmd: ACTOR DELETE
+[2022.03.21-01.30.21:200][354]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.21-01.30.21:228][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.03.21-01.30.21:232][354]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2022.03.21-01.39.16:239][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.03.21-01.39.16:265][933]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/StartMap_Auto1E9E3B9D2449E67D6C14E37A3D5016A0C.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/Autosaves/Game/MyProject/Maps/StartMap_Auto1.umap'
+[2022.03.21-01.39.16:268][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyProject/Maps/StartMap' took 0.059
+[2022.03.21-01.39.16:268][933]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2022.03.21-01.42.52:431][838]LogActorFactory: Actor Factory created SM_PotionBottle
+[2022.03.21-01.42.53:085][902]LogActorFactory: Actor Factory created SM_PotionBottle
+[2022.03.21-01.49.21:320][352]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.21-01.49.28:326][352]LogSlate: Window '부모 클래스 선택' being destroyed
+[2022.03.21-01.49.28:339][352]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.21-01.49.28:357][352]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.21-01.49.28:436][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.03.21-01.49.28:469][353]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/StartMap_Auto2D5BEE30040080398462B268A07C4C184.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/Autosaves/Game/MyProject/Maps/StartMap_Auto2.umap'
+[2022.03.21-01.49.28:471][353]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyProject/Maps/StartMap' took 0.064
+[2022.03.21-01.49.28:471][353]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2022.03.21-01.49.49:793][343]LogContentBrowser: Attempting asset rename: NewBlueprint -> HP_Health
+[2022.03.21-01.49.49:798][343]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.21-01.50.24:805][ 16]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyProject/BluePrints/HP_Health.HP_Health
+[2022.03.21-01.51.46:803][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyProject/BluePrints/HP_Health" FILE="../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset" SILENT=true
+[2022.03.21-01.51.46:811][910]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/HP_Health8140E2E348313DCF713770B0701EF910.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset'
+[2022.03.21-01.51.46:830][910]AssetCheck: New page: 에셋 저장:  HP_Health
+[2022.03.21-01.51.46:830][910]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/HP_Health.HP_Health 유효성 검사 중
+[2022.03.21-01.52.46:127][439]BlueprintLog: New page: HP_Health 컴파일
+[2022.03.21-01.52.46:193][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.03.21-01.53.24:699][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyProject/BluePrints/HP_Health" FILE="../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset" SILENT=true
+[2022.03.21-01.53.24:707][172]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/HP_Health4E3E41704911AF66114A74A09F4F55AF.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset'
+[2022.03.21-01.53.24:728][172]AssetCheck: New page: 에셋 저장:  HP_Health
+[2022.03.21-01.53.24:728][172]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/HP_Health.HP_Health 유효성 검사 중
+[2022.03.21-01.53.59:626][495]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.21-01.53.59:631][495]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.03.21-01.54.03:507][495]LogSlate: Window '부모 클래스 선택' being destroyed
+[2022.03.21-01.55.14:366][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyProject/BluePrints/HP_Health" FILE="../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset" SILENT=true
+[2022.03.21-01.55.14:375][632]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/HP_Health9DF50B414E27B6E58067CB91EC78C1D1.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset'
+[2022.03.21-01.55.14:398][632]AssetCheck: New page: 에셋 저장:  HP_Health
+[2022.03.21-01.55.14:398][632]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/HP_Health.HP_Health 유효성 검사 중
+[2022.03.21-01.56.31:424][  3]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2022.03.21-01.57.34:498][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyProject/BluePrints/HP_Health" FILE="../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset" SILENT=true
+[2022.03.21-01.57.34:509][481]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/HP_Health3D0A4DE346D08601D751A29C3FF206F4.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset'
+[2022.03.21-01.57.34:530][481]AssetCheck: New page: 에셋 저장:  HP_Health
+[2022.03.21-01.57.34:530][481]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/HP_Health.HP_Health 유효성 검사 중
+[2022.03.21-01.57.36:268][639]BlueprintLog: New page: HP_Health 컴파일
+[2022.03.21-01.57.36:320][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.03.21-01.57.36:856][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyProject/BluePrints/HP_Health" FILE="../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset" SILENT=true
+[2022.03.21-01.57.36:870][673]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/HP_Health97FFE0F742091165A137B3B0A1ACD1BB.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset'
+[2022.03.21-01.57.36:902][673]AssetCheck: New page: 에셋 저장:  HP_Health
+[2022.03.21-01.57.36:902][673]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/HP_Health.HP_Health 유효성 검사 중
+[2022.03.21-01.58.30:024][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyProject/BluePrints/HP_Health" FILE="../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset" SILENT=true
+[2022.03.21-01.58.30:031][499]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/HP_Health4C5FB49E4D12A0A26ADB53B33559476B.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset'
+[2022.03.21-01.58.30:056][499]AssetCheck: New page: 에셋 저장:  HP_Health
+[2022.03.21-01.58.30:056][499]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/HP_Health.HP_Health 유효성 검사 중
+[2022.03.21-01.59.11:393][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyProject/BluePrints/HP_Health" FILE="../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset" SILENT=true
+[2022.03.21-01.59.11:404][824]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/HP_HealthA4C9D88B4058E7855DED788C8614DE2A.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset'
+[2022.03.21-01.59.11:425][824]AssetCheck: New page: 에셋 저장:  HP_Health
+[2022.03.21-01.59.11:425][824]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/HP_Health.HP_Health 유효성 검사 중
+[2022.03.21-01.59.12:160][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyProject/BluePrints/HP_Health" FILE="../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset" SILENT=true
+[2022.03.21-01.59.12:167][889]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/HP_HealthE187339D4AB06F9046FB7B9B49701083.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset'
+[2022.03.21-01.59.12:188][889]AssetCheck: New page: 에셋 저장:  HP_Health
+[2022.03.21-01.59.12:188][889]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/HP_Health.HP_Health 유효성 검사 중
+[2022.03.21-01.59.12:679][926]BlueprintLog: New page: HP_Health 컴파일
+[2022.03.21-01.59.12:725][926]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.03.21-01.59.13:070][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyProject/BluePrints/HP_Health" FILE="../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset" SILENT=true
+[2022.03.21-01.59.13:083][937]LogSavePackage: Moving '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Saved/HP_Health6B86EE2641A0445BC04260A82565F780.tmp' to '../../../../../../Users/KOCCA30/Desktop/Education/-/MyProject_3_7/Content/MyProject/BluePrints/HP_Health.uasset'
+[2022.03.21-01.59.13:123][937]AssetCheck: New page: 에셋 저장:  HP_Health
+[2022.03.21-01.59.13:123][937]LogContentValidation: Display: Blueprint /Game/MyProject/BluePrints/HP_Health.HP_Health 유효성 검사 중
